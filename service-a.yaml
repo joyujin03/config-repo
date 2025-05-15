@@ -2,5 +2,5 @@ service:
   name: test-service-a
 
 student:
-  id: 20231234
-  name: 조유진
+  id: "202234193"
+  name: "조유진"
