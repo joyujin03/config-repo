@@ -4,3 +4,7 @@ service:
 student:
   id: "202234193"
   name: "조유진"
+
+logging:
+  level:
+    root: INFO 
