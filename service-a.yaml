@@ -1,2 +1,6 @@
 service:
   name: test-service-a
+
+student:
+  id: 20231234
+  name: 조유진
